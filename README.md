@@ -1,4 +1,4 @@
-# 📊 Ecommerce Traffic & Conversion Performance Analysis | SQL, BigQuery
+# 📊 Ecommerce Performancce & Conversion Analysis | SQL, BigQuery
 
 **Author:** Hoang Duc Kien
 
