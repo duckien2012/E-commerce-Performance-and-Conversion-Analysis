@@ -315,7 +315,7 @@ ORDER BY quantity DESC;
 
 #### 💡 Result
 
-![Image](https://github.com/user-attachments/assets/d3a5a385-5946-41b9-b9b0-a0edb5053e82)
+![Image]([https://github.com/user-attachments/assets/d3a5a385-5946-41b9-b9b0-a0edb5053e82](https://github.com/user-attachments/assets/1e4688d8-f5ee-4d27-bc6a-6b5bee0021af))
 
 ### 🔍 Query 08: Calculate cohort map from product view to addtocart to purchase in Jan, Feb and March 2017
 
